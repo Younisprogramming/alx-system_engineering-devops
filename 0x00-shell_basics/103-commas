@@ -1,2 +1,2 @@
 #!/bin/bash
-ls *[[:digit:]]* -pa --format=comma
+ls -pa --format=comma
