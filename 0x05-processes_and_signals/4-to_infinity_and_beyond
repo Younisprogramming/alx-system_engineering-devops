@@ -1,4 +1,4 @@
-!/usr/bin/env bash
+#!/usr/bin/env bash
 # segy rty
 while true; do
 	echo "To infinity and beyond"
