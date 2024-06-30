@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#dwlnk jk j k j m ,,,,,,,,,,,,,,,,,,,,,,,
+ssh-keygen -t rsa -b 4096 -f school -N 'betty'
